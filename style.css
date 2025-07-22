@@ -1,9 +1,19 @@
-/* styles.css */
+/* OVO SU SELEKTORI!!! PROUCI PO POTREBI */
+
+* {
+  color: purple;
+}
+
 
 div {
   color: white;
+  background-color: black;
 }
 
 .alert-text {
   color: red;
+}
+
+#title {
+  background-color: red;
 }
