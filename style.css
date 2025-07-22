@@ -7,7 +7,7 @@
 
 div {
   color: white;
-  background-color: black;
+  
 }
 
 .alert-text {
@@ -16,4 +16,34 @@ div {
 
 #title {
   background-color: red;
+}
+.read,
+.unread {
+  color: white;
+  background-color: black;
+}
+
+.read {
+  /* several unique declarations */
+}
+
+.unread {
+  /* several unique declarations */
+}
+.subsection.header {
+  color: red;
+
+.subsection.header {
+  color: red;
+}
+
+.subsection#preview {
+  color: blue;
+}
+/* styles.css */
+
+.ancestor .contents {
+  /* some declarations */
+}
+
 }
